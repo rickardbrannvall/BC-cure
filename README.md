@@ -1,2 +1,5 @@
 # BC-cure
-Online repo for BC-Cure solution to the Vinnova Vinter competition 
+This is a placeholder repo for the BC-Cure solution to the Vinnova Vinter competition. 
+
+The relevant code and examples of data structure can be found on the use case site:
+https://github.com/rickardbrannvall/teewondee
